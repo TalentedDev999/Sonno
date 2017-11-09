@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>playlist</string>
+		<key>hexColor</key>
+		<string>FFAF49</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>sounds</string>
+		<key>hexColor</key>
+		<string>ED8A4D</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>random</string>
+		<key>hexColor</key>
+		<string>ED604D</string>
+	</dict>
+</array>
+</plist>

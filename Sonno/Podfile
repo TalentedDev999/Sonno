@@ -1,0 +1,11 @@
+platform :ios, '8.0'
+use_frameworks!
+
+target 'Sonno' do
+  pod 'SnapKit'
+  pod 'Spring', :git => 'https://github.com/MengTo/Spring.git', :branch => 'swift2'
+  pod 'Fabric'
+  pod 'Crashlytics'
+  pod 'Armchair'
+  pod 'Google-Mobile-Ads-SDK'
+end

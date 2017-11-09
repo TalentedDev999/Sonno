@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>Start by selecting Sleep Well or Wake Well cycles.</string>
+	<string>Select a playlist, sound or random. Set timer for how long you want the music to play. Set the starting volume of the music.</string>
+	<string>Select a playlist, sound or random. Set alarm for when you want the music to play. Set the starting volume of the music.</string>
+	<string>Press start to being Sleep Journey. Shake to reset.</string>
+	<string>Create playlist from your music library and access sounds to add as audio for your sleep journey.</string>
+</array>
+</plist>

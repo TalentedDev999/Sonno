@@ -1,0 +1,6 @@
+framework module Pods_Sonno {
+  umbrella header "Pods-Sonno-umbrella.h"
+
+  export *
+  module * { export * }
+}

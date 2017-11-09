@@ -1,0 +1,36 @@
+PODS:
+  - Armchair (0.1.1)
+  - Crashlytics (3.4.1):
+    - Fabric (~> 1.6.0)
+  - Fabric (1.6.1)
+  - Google-Mobile-Ads-SDK (7.6.0)
+  - SnapKit (0.18.0)
+  - Spring (1.0.3)
+
+DEPENDENCIES:
+  - Armchair
+  - Crashlytics
+  - Fabric
+  - Google-Mobile-Ads-SDK
+  - SnapKit
+  - Spring (from `https://github.com/MengTo/Spring.git`, branch `swift2`)
+
+EXTERNAL SOURCES:
+  Spring:
+    :branch: swift2
+    :git: https://github.com/MengTo/Spring.git
+
+CHECKOUT OPTIONS:
+  Spring:
+    :commit: 18d5c7b74489de8044e34767f856d1e574f0820e
+    :git: https://github.com/MengTo/Spring.git
+
+SPEC CHECKSUMS:
+  Armchair: 276f0dadba704b562870613301bdf7b595a29315
+  Crashlytics: 41574a245bc6ae10c55d57f385ebd2004e5bee05
+  Fabric: bf0ceb04e7c924090efc5f8c55e4fbcca189e0a0
+  Google-Mobile-Ads-SDK: 0290020329c61183c4685304264b73382bc49fb4
+  SnapKit: e1f090a6d47b1dd4bd89b73f72b6746a7835ef3c
+  Spring: 3f02b5dc3308572ef177b3cad0fa7bbc4b0706f7
+
+COCOAPODS: 0.39.0

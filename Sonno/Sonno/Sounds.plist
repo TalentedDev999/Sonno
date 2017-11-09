@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<integer>1</integer>
+		<key>title</key>
+		<string>Birds</string>
+		<key>fileURL</key>
+		<string>birds</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>2</integer>
+		<key>title</key>
+		<string>Amazon</string>
+		<key>fileURL</key>
+		<string>amazon</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>3</integer>
+		<key>title</key>
+		<string>Woods</string>
+		<key>fileURL</key>
+		<string>woods</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>4</integer>
+		<key>title</key>
+		<string>Ocean Calm</string>
+		<key>fileURL</key>
+		<string>ocean</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>5</integer>
+		<key>title</key>
+		<string>Rainy Day</string>
+		<key>fileURL</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>6</integer>
+		<key>title</key>
+		<string>Morning</string>
+		<key>fileURL</key>
+		<string>morning</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>7</integer>
+		<key>title</key>
+		<string>Blizzard</string>
+		<key>fileURL</key>
+		<string>blizzard</string>
+	</dict>
+</array>
+</plist>

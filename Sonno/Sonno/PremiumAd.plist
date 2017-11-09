@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>premium</string>
+		<key>hexColor</key>
+		<string>13293D</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>no ads</string>
+		<key>hexColor</key>
+		<string>1A3853</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>unlimited playlists</string>
+		<key>hexColor</key>
+		<string>1F4262</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>more sounds</string>
+		<key>hexColor</key>
+		<string>234D71</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>longer SleepWell timer</string>
+		<key>hexColor</key>
+		<string>2A5D8A</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Go Premium</string>
+		<key>hexColor</key>
+		<string>FFFFFF</string>
+	</dict>
+</array>
+</plist>
